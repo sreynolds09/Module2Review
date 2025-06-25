@@ -1,0 +1,14 @@
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.exe
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.deps.json
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.runtimeconfig.json
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.dll
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.pdb
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.AssemblyInfoInputs.cache
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.AssemblyInfo.cs
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.csproj.CoreCompileInputs.cache
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.dll
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\refint\Module2Review.dll
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.pdb
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.genruntimeconfig.cache
+C:\Users\sarar\OneDrive\Desktop\repos\Module2Review\Module2Review\Module2Review\obj\Debug\net9.0\ref\Module2Review.dll
